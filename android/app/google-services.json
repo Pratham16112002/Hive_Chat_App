@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134135164067",
+    "project_id": "hive-chat-1c5eb",
+    "storage_bucket": "hive-chat-1c5eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134135164067:android:f62dd415967ae263766316",
+        "android_client_info": {
+          "package_name": "com.example.hive_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134135164067-07ueomqudc7j6uor5ld892t90dd2jnj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4KMI3akMxSbNgaOY3uBVf0tPFkQSBS8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134135164067-07ueomqudc7j6uor5ld892t90dd2jnj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
