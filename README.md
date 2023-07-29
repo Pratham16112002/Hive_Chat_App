@@ -1,6 +1,22 @@
-# hive_chat
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-A new Flutter project.
+<div align="center">
+    <a href="">
+    <img src="images/Logo.png" alt="Logo" width="80" height="80">
+    </a>
+</div>
+
+### HIVE CHAT
+
+## About the project
+
+![Product Login Image][product_login_image]
+![Projuct Chat Image][product_chat_image]
 
 ## Getting Started
 
@@ -14,3 +30,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+[product_login_image] : images/Login.png
+[product_chat_image] : images/Chat.png
