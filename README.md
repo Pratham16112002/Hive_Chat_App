@@ -2,6 +2,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/Pratham16112002/Hive_Chat_App)
 ![GitHub](https://img.shields.io/github/license/Pratham16112002/Hive_Chat_App)
 
+
 <div align="center">
     <a href="">
     <img src="images/Logo.png" alt="Logo" width="80" height="80">
