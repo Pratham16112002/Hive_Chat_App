@@ -12,7 +12,7 @@
 
 ## About the project
 
-![Product Image][product_image]
+![My Image](images/project_image.jpg)
 
 ## How to Use
 
@@ -52,4 +52,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-[product_image]: images/project_image.jpg
