@@ -13,7 +13,7 @@ import 'package:flutter/foundation.dart'
 /// await Firebase.initializeApp(
 ///   options: DefaultFirebaseOptions.currentPlatform,
 /// );
-/// ```
+///
 class DefaultFirebaseOptions {
   static FirebaseOptions get currentPlatform {
     if (kIsWeb) {
@@ -63,7 +63,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '134135164067',
     projectId: 'hive-chat-1c5eb',
     storageBucket: 'hive-chat-1c5eb.appspot.com',
-    iosClientId: '134135164067-5hfipth2he15lh3ucdt8m312a36flslb.apps.googleusercontent.com',
+    iosClientId:
+        '134135164067-5hfipth2he15lh3ucdt8m312a36flslb.apps.googleusercontent.com',
     iosBundleId: 'com.example.hiveChat',
   );
 }

@@ -1,9 +1,6 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+![GitHub contributors](https://img.shields.io/github/contributors/Pratham16112002/Hive_Chat_App)
+![GitHub issues](https://img.shields.io/github/issues/Pratham16112002/Hive_Chat_App)
+![GitHub](https://img.shields.io/github/license/Pratham16112002/Hive_Chat_App)
 
 <div align="center">
     <a href="">
@@ -15,8 +12,33 @@
 
 ## About the project
 
-![Product Login Image][product_login_image]
-![Projuct Chat Image][product_chat_image]
+![Product Image][product_image]
+
+## How to Use
+
+**Step 1:**
+
+Download or clone this repo by using the link below:
+
+```
+https://github.com/Pratham16112002/Hive_Chat_App.git
+```
+
+**Step 2:**
+
+Go to project root and execute the following command in console to get the required dependencies:
+
+```
+flutter pub get
+```
+
+**Step 3:**
+
+This project uses `inject` library that works with code generation, execute the following command to generate files:
+
+```
+flutter run
+```
 
 ## Getting Started
 
@@ -30,5 +52,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-[product_login_image] : images/Login.png
-[product_chat_image] : images/Chat.png
+[product_image] : images/product_image.jpg
