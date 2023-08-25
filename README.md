@@ -1,5 +1,6 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/Pratham16112002/Hive_Chat_App)
 ![GitHub issues](https://img.shields.io/github/issues/Pratham16112002/Hive_Chat_App)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/Pratham16112002/Hive_Chat_App)
 ![GitHub](https://img.shields.io/github/license/Pratham16112002/Hive_Chat_App)
 
 
